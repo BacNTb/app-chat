@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="fbc21dc4-0ae7-491f-b748-2448120ef581" name="192.168.126.11">
+        <fileTransfer rootFolder="/home/bacntb/app-chat" accessType="SFTP" host="192.168.126.11" port="22" sshConfigId="d8fb86cf-55aa-429d-9a2d-cfcae840f1ad" sshConfig="bacntb@192.168.126.11:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
